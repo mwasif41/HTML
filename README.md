@@ -1,2 +1,2 @@
 # HTML
-this repository conatins the examples of **HTML** web pages
+This repository Conatins the Examples of **HTML** web pages.
